@@ -1,4 +1,4 @@
-# Clean Code
+# Books
 
-> This is summary of my Clean Code studying
+> Records of the books I read =D
 
